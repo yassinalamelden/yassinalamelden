@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Yassin Mahmoud  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4A90E2&width=600&lines=Hi%2C+I'm+Yassin+Mahmoud+👋;Machine+Learning+Engineer+%26+;Protein+Folding+Simulation+Researcher;Always+Learning+%26+Building!)](https://git.io/typing-svg)
+
 
 💻 **Machine Learning Engineer** | 🔬 Protein Folding Research | 🚀 Passionate about AI in Healthcare  
 
