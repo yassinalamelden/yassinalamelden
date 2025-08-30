@@ -45,10 +45,13 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats & Activity  
 
-![Yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalamelden&layout=compact&theme=default)  
+![Yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&count_private=true&hide_border=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=yassinalamelden&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalamelden&layout=compact&langs_count=8&theme=radical&hide_border=true)  
+![trophy](https://github-profile-trophy.vercel.app/?username=yassinalamelden&theme=onedark&row=1&no-frame=true&margin-w=15)  
+![Yassin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yassinalamelden&theme=github-compact)
 
 ---
 
