@@ -56,9 +56,21 @@
 
 ## 📊 GitHub Stats & Activity
 
-![Yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=yassinalamelden&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalamelden&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=yassinalamelden&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" alt="Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalamelden&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
