@@ -22,7 +22,7 @@
 - ✅ Streamlit web app: **[Live Demo](https://proteinfoldingmodel.streamlit.app/)**  
 - ✅ Visualizations for square, triangular, and cubic lattices
 
-🔹 [**E-Commerce Sales Dashboard**](https://github.com/yassinalamelden/ecommerce-dashboard)  
+🔹 [**E-Commerce Dashboard**](https://github.com/yassinalamelden/ecommerce-dashboard)  
 *Interactive sales analytics dashboard built with Streamlit + SQLite + Plotly.*  
 - 📦 Product, customer, and daily sales insights  
 - 💾 SQLite backend with views (`v_sales_by_product`, `v_sales_by_customer`, `v_sales_daily`)  
@@ -56,9 +56,9 @@
 
 ## 📊 GitHub Stats & Activity
 
-![Yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&count_private=true&hide_border=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=yassinalamelden&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalamelden&layout=compact&langs_count=8&theme=radical&hide_border=true)
+![Yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=yassinalamelden&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalamelden&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
 ---
 
