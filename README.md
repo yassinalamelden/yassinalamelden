@@ -3,22 +3,20 @@
 💻 **Machine Learning Engineer** | 🧠 Deep Learning & AI Systems | 🧰 Python Full Stack | 🚀 AI for Healthcare & E-Commerce
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,html,postgres,sqlite,git,github&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/FAISS-013243?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/SSMS-2C2C2C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 ---
 
 ## 🌟 About Me
@@ -34,30 +32,22 @@
 ## 🚀 Featured Projects
 
 🔹 [**Hospital Management System**](https://github.com/yassinalamelden/Hospital-Managment-System)  
-*A comprehensive hospital management platform built with Python OOP.*  
-- 🏥 Advanced appointment booking system and interactive calendar validation.
+*A comprehensive hospital management platform built with Python OOP.* - 🏥 Advanced appointment booking system and interactive calendar validation.
 - 💳 Automated billing, patient portal, and room/bed allocation management.
 - 🔐 Secure role-based access control (Admin, Doctor, Patient).
 
 🔹 [**Protein Folding Model**](https://github.com/yassinalamelden/Protein_Folding_Model)  
-*Simulating protein folding using Genetic Algorithm, Simulated Annealing, and Particle Swarm Optimization on 2D & 3D lattice models.*  
-- ✅ Optimized folding energies with metaheuristics  
-- ✅ Streamlit web app: **[Live Demo](https://proteinfoldingmodel.streamlit.app/)**  
-
-🔹 [**E-Commerce Dashboard**](https://github.com/yassinalamelden/ecommerce-dashboard)  
-*Interactive sales analytics dashboard built with Streamlit + SQLite + Plotly.*  
-- 📊 Live interactive charts & tables (Pandas + Plotly): **[Live App](https://ecommerce-dashboard-project.streamlit.app/)**  
-
----
+*Simulating protein folding using Genetic Algorithm, Simulated Annealing, and Particle Swarm Optimization on 2D & 3D lattice models.* - ✅ Optimized folding energies with metaheuristics  
+- ✅ Streamlit web app: **[Live Demo](https://proteinfoldingmodel.streamlit.app/)** 🔹 [**E-Commerce Dashboard**](https://github.com/yassinalamelden/ecommerce-dashboard)  
+*Interactive sales analytics dashboard built with Streamlit + SQLite + Plotly.* - 📊 Live interactive charts & tables (Pandas + Plotly): **[Live App](https://ecommerce-dashboard-project.streamlit.app/)** ---
 
 ## 🚧 In Progress
 
 🔸 [**ChicFinder**](https://github.com/yassinalamelden/ChicFinder)  
-*Deep learning-based intelligent expert system for outfit recommendations.*  
-- 🧠 Utilizing **FashionCLIP** for high-dimensional image embeddings (512-dim).
+*Deep learning-based intelligent expert system for outfit recommendations.* - 🧠 Utilizing **FashionCLIP** for high-dimensional image embeddings (512-dim).
 - 🔍 Implementing **FAISS** for ultra-fast offline and online cosine similarity vector searches.
 
-🔸 **Silo**  
+🔸 [**Silo**](https://github.com/Ahmed-fall/Silo)
 *Ongoing development project expanding my backend and system architecture expertise.*
 
 ---
@@ -65,14 +55,14 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&v=1" height="195" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=yassinalamelden&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" height="195" alt="Streak" />
-</div>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&v=3)](https://github.com/yassinalamelden)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yassinalamelden&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly)](https://github.com/yassinalamelden)
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalamelden&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&v=1" alt="Top Langs" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalamelden&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&v=3)](https://github.com/yassinalamelden)
+
 </div>
 
 ---
