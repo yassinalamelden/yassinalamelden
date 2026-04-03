@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4A90E2&width=600&lines=Hi%2C+I'm+Yassin+Mahmoud+👋;Machine+Learning+Engineer;Always+Learning+%26+Building!)](https://git.io/typing-svg)
 
+💻 **Machine Learning Engineer** | 🧠 Deep Learning & AI Systems | 🧰 Python Full Stack | 🚀 AI for Healthcare & E-Commerce
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -62,21 +64,13 @@
 
 ## 📊 GitHub Stats & Activity
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=yassinalamelden&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" alt="Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalamelden&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=yassinalamelden&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" alt="Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalamelden&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
