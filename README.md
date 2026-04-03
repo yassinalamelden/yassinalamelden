@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=4A90E2&width=600&lines=Hi%2C+I'm+Yassin+Mahmoud+👋;Machine+Learning+Engineer;Always+Learning+%26+Building!)](https://git.io/typing-svg)
 
-💻 **Machine Learning Engineer** | 🧠 Deep Learning & AI Systems | 🧰 Python Full Stack | 🚀 AI for Healthcare & E-Commerce
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
