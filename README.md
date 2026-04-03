@@ -64,13 +64,16 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=yassinalamelden&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" alt="Streak" />
-</p>
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yassinalamelden&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="195" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=yassinalamelden&theme=tokyonight&hide_border=true&border_radius=10&mode=weekly" height="195" alt="Streak" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinalamelden&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Langs" />
-</p>
+</div>
 
 ---
 
